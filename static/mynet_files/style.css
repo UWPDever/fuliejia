@@ -1,0 +1,56 @@
+﻿.body{ width:100%;height:100%; font-size:14px; color:#b2b2b2;}
+.body a{ cursor:pointer; text-decoration:none; }
+.line{ clear:both; border-bottom:1px solid #e8e8e8;}
+.top{ height:56px;word-spacing:5px;letter-spacing: 1px;}
+.content{ color:#606060; margin-top:5px; width:100%;}
+.div_row{ clear:both; margin:12px auto; width:200px;}
+.div_row_new{clear:both; margin:12px auto;}
+.div_row_height{ line-height:22px;}
+.div_row .left{line-height:16px; }
+.div_row .right{ /*line-height:35px;*/ }
+.right input{ border:1px solid #b2b2b2; font-size:16px;}
+.div_row .center{ line-height:30px;}
+.div_row .center input{ background-color:#008b8a; width:180px; height:30px; font-size:16px; color:#fff;border:1px solid #b2b2b2;}
+.menu{ height:45px; text-align:center; margin-top:20px;}
+.menu a{ cursor:pointer; text-decoration:none; float:left;}
+.menu a .mu1{ width:32px; height:32px; background-color:#008b8a; color:#fff;border:1px solid #b2b2b2; padding:1px; }
+.bottom{ clear:both;}
+.bottom_2{ text-align:center; margin-top:5px; }
+.div_a_btn{clear:both;text-align:right; margin:10px 20px 50px 0; font-size:20px;}
+.div_a_btn1{clear:both;text-align:right; margin:10px 20px 0 0; font-size:20px;}
+
+.fw_table_font table{ font-size:14px; line-height:16px; width:200px; margin:0 auto; }
+
+.messageinfo
+{
+	color: #929292;
+	font-size: 12px;
+}
+.register input
+{
+     border:1px solid #b2b2b2; font-size:16px;
+}
+
+.Register_right
+{
+    font-weight:bold; font-size:16px; font-family:"华文琥珀";
+    color:Green;
+}
+.Register_error
+{
+     font-size:14px; font-family:"华文琥珀";
+}
+.msgSpan
+{
+    color:Red;
+    font-size:12px;
+}
+
+.title {
+    background: #555;
+    color: #fff;
+    height: 36px;
+    line-height: 36px;
+    width: 100%;
+    margin: 0 auto;
+}
